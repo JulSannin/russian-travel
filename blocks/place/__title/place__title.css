@@ -1,4 +1,4 @@
-.places__place__title {
+.place__title {
     margin: 0;
     grid-column: 1/2;
     grid-row: 1/2;
@@ -11,7 +11,7 @@
 
 
 @media screen and (min-width: 319px) and (max-width: 767px) {
-    .places__place__title {
+    .place__title {
         font-size: 32px;
         line-height: 35px;
         grid-column: 1/2;
@@ -21,7 +21,7 @@
 }
 
 @media screen and (min-width: 767px) and (max-width: 1023px) {
-    .places__place__title {
+    .place__title {
         font-size: 42px;
         line-height: 46px;
     }

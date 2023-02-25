@@ -1,4 +1,4 @@
-.places__place__paragraph {
+.place__paragraph {
     margin: 0;
     font-family: 'Inter';
     font-style: normal;
@@ -7,12 +7,12 @@
     line-height: 163%;
 }
 
-.places__place__paragraph:nth-child(2) {
+.place__paragraph:nth-child(2) {
     padding-top: 25px;
 }
 
 @media screen and (min-width: 319px) and (max-width: 1023px) {
-    .places__place__paragraph {
+    .place__paragraph {
         font-size: 16px;
         line-height: 163%;
     }

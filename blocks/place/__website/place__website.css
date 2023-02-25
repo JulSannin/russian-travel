@@ -1,11 +1,11 @@
-.places__place__website {
+.place__website {
     grid-column: 2/3;
     grid-row: 1/2;
     align-self: flex-end;
 }
 
 @media screen and (min-width: 319px) and (max-width: 767px) {
-    .places__place__website {
+    .place__website {
         grid-column: 1/2;
         grid-row: 2/3;
         padding: 0 16px 0 16px;
