@@ -1,0 +1,15 @@
+.places__place__link {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    text-decoration-line: underline;
+    color: #FFFFFF;
+    transition: 0.5s;
+}
+
+.places__place__link:hover {
+    color: rgba(255, 255, 255, 0.8);
+    transition: 0.5s;
+}
