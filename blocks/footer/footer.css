@@ -1,7 +1,4 @@
 .footer {
-    display: flex;
-    flex-direction: row;
-    justify-content: flex-start;
     padding: 92px 0 24px 0;
     max-width: 1184px;
     margin: 0 auto;

@@ -8,6 +8,10 @@
     padding-bottom: 80px;
 }
 
+.place:last-child {
+    padding-bottom: 0px;
+}
+
 @media screen and (min-width: 1023px) and (max-width: 1279px) {
     .place {
         grid-template-columns: 440px 456px;
@@ -35,8 +39,4 @@
         row-gap: 32px;
         padding-bottom: 50px;
     }
-}
-
-.place:last-child {
-    padding-bottom: 0px;
 }
